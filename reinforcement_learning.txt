@@ -1,0 +1,6 @@
+# policy
+# reward
+# value function
+# model of the environment
+
+
